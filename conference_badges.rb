@@ -1,1 +1,1 @@
-# Write your code here.
+people = {"Edsger","Ada","Charles","Alan","Grace","Linus","Matz"}
